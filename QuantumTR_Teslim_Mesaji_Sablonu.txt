@@ -1,0 +1,17 @@
+Sayın {KULLANICI_ADI},
+
+Quantum-TR lisanslı sisteminize ait bilgiler aşağıda sunulmuştur:
+
+🔐 Lisans Anahtarı Dosyanız: {LISANS_DOSYASI}
+📦 Sistem Dosyası: QuantumTR_Paket_Bayraktar16.zip
+📘 Kullanım Kılavuzu: README-QUANTUM.md
+📄 Tanıtım Belgesi: QuantumTR_Belge_Portfoy_Bayraktar16.pdf
+
+🔗 İndirme Linki: [size özel linkle paylaşılacak]
+💳 Ödeme Durumu: Onaylandı
+🕒 Teslim Tarihi: {TESLIM_TARIHI}
+
+Her lisans kişiye özeldir. Paylaşıldığı veya çoğaltıldığı tespit edildiğinde sistem kendini kilitler.
+
+Teşekkürler,
+Bayraktar16 – Sancak Muhafızları

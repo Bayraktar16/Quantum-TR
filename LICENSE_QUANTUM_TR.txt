@@ -1,0 +1,13 @@
+Quantum-TR – Lisanslı Şifreli Güvenlik Sistemi
+
+Bu yazılım Bayraktar16 tarafından geliştirilen ve yalnızca ücretli lisansa sahip kullanıcılara özel olarak sunulan şifreli bir güvenlik sistemidir.
+
+Telif Hakkı (c) 2025 Bayraktar16 – Sancak Muhafızları
+
+1. Quantum-TR yalnızca lisans sahibi kişi/kurum tarafından kullanılabilir.
+2. Şifre çözme, kopyalama, çoğaltma veya yeniden dağıtım kesinlikle yasaktır.
+3. Her .key lisansı kişiye özeldir ve paylaşılamaz.
+4. Sistem lisans ihlali tespit ederse kendini otomatik olarak devre dışı bırakır.
+5. Tüm ticari hakları Bayraktar16'ya aittir.
+
+İhlal durumunda yasal işlem başlatılır.
