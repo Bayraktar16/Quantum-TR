@@ -42,7 +42,7 @@ python3 run_qtr.py quantumtr_payload.enc quantumtr_license.key
 ## 💼 Fiyatlandırma ve Lisans
 
 Quantum-TR sistemi, yalnızca lisanslı kullanıcılara sunulmaktadır.  
-**Lisans Bedeli: 180.000 USD**  
+**Lisans Bedeli: 180.000 $  **  
 Sistem şifreli olarak teslim edilir. Ödeme sonrası özel anahtar ve kurulum paketi sağlanır.
 
 ### İletişim ve Satın Alma:
